@@ -61,4 +61,4 @@ Specify your license here.
 
 ## Author
 
-[Your Name or GitHub Username]
+Matias Porto
